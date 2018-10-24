@@ -27,3 +27,6 @@ android:
 
     # The SDK version used to compile your project
     - android-28
+
+script:
+- chmod +x ./gradlew
